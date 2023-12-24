@@ -1,0 +1,28 @@
+{
+  "name": "koishi-plugin-idiom-solitaire",
+  "description": "成语接龙小游戏",
+  "version": "1.0.2",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "contributors": [
+    "unsignedzhang <unsignedzhang@foxmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/unsignedzhang/koishi-plugin-idiom-solitaire",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsignedzhang/koishi-plugin-idiom-solitaire.git"
+  },
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "4.15.7"
+  }
+}
